@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rjankit886
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python+Django
+- 🌱 I’m a Python Developer
 - 📫 How to reach me https://www.linkedin.com/in/ankit-verma-9b03b4132
 
 <!---
